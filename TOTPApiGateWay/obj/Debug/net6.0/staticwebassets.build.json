@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DLBxMea3UQy19UgcrB1K5BAyLfqwixvudCKYAYUNinY=",
+  "Source": "TOTPApiGateWay",
+  "BasePath": "_content/TOTPApiGateWay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

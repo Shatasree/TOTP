@@ -1,0 +1,16 @@
+
+  {
+    "ReRoutes": [
+      {
+        "DownstreamPathTemplate": "/api/TOTP",
+        "DownstreamScheme": "https",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 44317
+          }
+        ],
+        "UpstreamPathTemplate": "/ApiGateWay/GenarateOTP",
+        "UpstreamHttpMethod": [ "GET", "PUT", "POST" ]
+      }
+  }
